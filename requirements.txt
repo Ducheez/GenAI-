@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+flask
+gunicorn
+boto3
+python-dotenv
+numpy
